@@ -3,3 +3,6 @@
 # Create database in phpmyadmin with "mstore" and then import mstore.sql 
 # Username : user@user.com
 # Password : user
+# Made in HTML/ CSS/ Boostrap/ JS/ PHP
+# Install xamp to run on your local machine
+# Enjoy
